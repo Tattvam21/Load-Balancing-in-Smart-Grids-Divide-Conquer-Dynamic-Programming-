@@ -1,0 +1,20 @@
+{
+  "served_kW": 3465,
+  "shed_kW": 4208,
+  "max_util": 1.0,
+  "avg_util": 1.0,
+  "util_stddev": 0.0,
+  "per_transformer_kW": [
+    251,
+    298,
+    476,
+    402,
+    338,
+    309,
+    284,
+    297,
+    361,
+    449
+  ],
+  "unplaced_after_pack": 0
+}
